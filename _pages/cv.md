@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2017 (expected)
+* Masters in Information Management and Systems, UC Berkeley, 2015
+* Masters in International Policy Studies, Stanford University, 2011
+* Bachelors in Global Economics, UC Santa Cruz, 2007
 
 Work experience
 ======

@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
+  * UC Berkeley
   * Duties included: Rejecting pull requests
   * Supervisor: Professor Git
 
